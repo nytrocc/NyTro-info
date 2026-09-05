@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/pBJRQKwF/descarga.png" alt="NyTro Hub Banner" width="400">
+  <img src="https://i.ibb.co/pBJRQKwF/descarga.png" alt="NyTro Hub Banner" width="250">
   
   # 🚀 NyTro Hub - The Future of Roblox Scripts
   
