@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-nytro-banner.png" alt="NyTro Hub Banner" width="100%">
+  <img src="https://i.ibb.co/pBJRQKwF/descarga.png" alt="NyTro Hub Banner" width="100%">
   
   # 🚀 NyTro Hub - The Future of Roblox Scripts
   
@@ -57,12 +57,6 @@ Head over to the [NyTro Key System](https://oficial.nytrocc.workers.dev/key-syst
 
 ### Step 3: Copy the Loadstring
 Visit the [NyTro Scripts Catalog](https://oficial.nytrocc.workers.dev/scripts) and find the game you want to exploit. Click on the script and copy its designated `loadstring`.
-
-Alternatively, use our **Universal Hub Loader**:
-```lua
--- NyTro Universal Hub
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/NyTro-Public-Repo/main/loader.lua"))()
-```
 
 ### Step 4: Inject & Execute
 1. Launch Roblox and enter the game.
